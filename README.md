@@ -1,3 +1,6 @@
+# Made this project for practice. No Libraries used. Basic arithmetic functions using programming concepts and useReducer hook
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
